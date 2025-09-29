@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **marcMojica/marcMojica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Nameplate](https://github.com/marcMojica/marcMojica/blob/main/medesigner.png?raw=true)
